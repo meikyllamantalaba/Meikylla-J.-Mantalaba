@@ -48,6 +48,21 @@
 
 ---
 
+## ❤️ Course Reflection: AI & Google Tools in Our Outputs
+
+> *🌹 "Combining modern digital tools with dedication makes learning smoother, smarter, and more meaningful." 🌹*
+
+Throughout our journey in **GE 4120: 21st Century IT Skills**, creating and organizing our overall outputs showed me how valuable modern technology is for students—especially when balancing heavy academic workloads and clinical duties in nursing.
+
+* **How Artificial Intelligence (AI) Helped:** Using AI as a learning and creative assistant made a big difference in completing our projects. Instead of feeling stuck when formatting code, structuring ideas, or polishing designs like this GitHub portfolio, AI guided me step-by-step, helped troubleshoot errors quickly, and gave me clear suggestions to turn my ideas into clean, professional outputs. It taught me that when used responsibly, AI enhances our creativity and saves time while helping us understand new technical skills faster.
+* **Convenience of Google Materials & Workspace Tools:** Google tools—such as **Google Docs, Google Sheets, Google Slides, Google Forms, and Google Drive**—made working on our deliverables remarkably convenient and stress-free. Because everything is cloud-based and automatically saved, I could access, edit, and organize my files anytime across both my laptop and phone without worrying about losing my work. Sharing links, collaborating with classmates, and keeping all our references and outputs in one accessible space streamlined our entire workflow from start to finish.
+
+🥀 Overall, these tools taught me how adaptability and digital literacy empower us to work more efficiently—skills I will proudly carry forward into my future career as a nurse. 🌹
+
+<br/>
+
+---
+
 ## 🌹 A Little Snapshot of Mikay
 
 <div align="center">
