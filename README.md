@@ -92,6 +92,6 @@ As a nursing student, one of my goals is to become a **competent and compassiona
   <br/><br/>
 
   <!-- Matching Red Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=110&section=footer&text=Thank%20you%20for%20visiting!%20♡&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&colorred=gradient&customColorList=12,14,15&height=110&section=footer&text=Thank%20you%20for%20visiting!%20♡&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 </div>
