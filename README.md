@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td width="260" align="center">
-      <img src="./IMG_3240.HEIC" alt="Meikylla Mantalaba" width="230" />
+      <img src="./IMG_3240.jpg" alt="Meikylla Mantalaba" width="230" />
     </td>
     <td>
       <p>Hi everyone! My name is <b>Meikylla Mantalaba</b>, but you can call me <b>Mikay</b>. I’m <b>22 years old</b>, and I’m currently a <b>fourth-year Bachelor of Science in Nursing</b> student.</p>
