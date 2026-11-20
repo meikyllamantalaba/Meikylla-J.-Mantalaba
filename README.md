@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Red Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=210&section=header&text=GE%204120:%2021st%20Century%20IT%20Skills&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🌹%20Digital%20Portfolio%20by%20Meikylla%20Mantalaba%20🌹&descAlignY=58&descSize=18" width="100%" />
+  <!-- Animated Solid Red Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=210&section=header&text=GE%204120:%2021st%20Century%20IT%20Skills&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🌹%20Digital%20Portfolio%20by%20Meikylla%20Mantalaba%20🌹&descAlignY=58&descSize=18" width="100%" />
 
   <br/>
 
@@ -19,23 +19,36 @@
 
 <br/>
 
-## 🌹 ❤️ About Me & This Portfolio ❤️ 🌹
+## 🌹 ❤️ About Me ❤️ 🌹
 
-> *🌹 "Patience, Progress, and Purpose — growing both in nursing and in 21st-century digital skills." 🌹*
-
-Hi everyone! My name is **Meikylla Mantalaba**, but you can call me **Mikay**. I’m **22 years old**, and I’m currently a **fourth-year Bachelor of Science in Nursing** student.
-
-I would describe myself as a friendly, hardworking, and sometimes quiet person, especially when I’m still getting comfortable with people. I enjoy spending time with the people I love, taking pictures, listening to music, and playing pickleball whenever I have free time. I also enjoy trying different foods and going out with my friends and family.
-
-As a nursing student, one of my goals is to become a **competent and compassionate nurse** who can provide quality care to my patients. Nursing can be challenging, but I believe that every experience—especially during clinical duties—helps me grow and become more confident in what I do. I’m still learning a lot about myself and about nursing, but I’m excited to continue improving, gaining new experiences, and making meaningful memories along the way. Thank you! ♡
-
-🥀 *This repository serves as my centralized digital showcase for **GE 4120: 21st Century IT Skills**, holding my required course deliverables, creative projects, and outputs throughout the term.* 🌹
+<table>
+  <tr>
+    <td width="260" align="center">
+      <img src="./IMG_3240.jpg" alt="Meikylla Mantalaba" width="230" />
+    </td>
+    <td>
+      <p>Hi everyone! My name is <b>Meikylla Mantalaba</b>, but you can call me <b>Mikay</b>. I’m <b>22 years old</b>, and I’m currently a <b>fourth-year Bachelor of Science in Nursing</b> student.</p>
+      <p>I would describe myself as a friendly, hardworking, and sometimes quiet person, especially when I’m still getting comfortable with people. I enjoy spending time with the people I love, taking pictures, listening to music, and playing pickleball whenever I have free time. I also enjoy trying different foods and going out with my friends and family.</p>
+      <p>As a nursing student, one of my goals is to become a <b>competent and compassionate nurse</b> who can provide quality care to my patients. Nursing can be challenging, but I believe that every experience—especially during clinical duties—helps me grow and become more confident in what I do. I’m still learning a lot about myself and about nursing, but I’m excited to continue improving, gaining new experiences, and making meaningful memories along the way. Thank you! ♡</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-## 🥀 A Little Snapshot of Mikay
+## 🥀 About This Portfolio
+
+> *🌹 "Patience, Progress, and Purpose — growing both in nursing and in 21st-century digital skills." 🌹*
+
+🥀 Welcome to my digital showcase! This repository serves as my centralized hub highlighting my creative and technical growth in **GE 4120: 21st Century IT Skills**. It holds all of my required course deliverables—including activity outputs, design documentations, mini projects, and assignments completed throughout the term. 🌹
+
+<br/>
+
+---
+
+## 🌹 A Little Snapshot of Mikay
 
 <div align="center">
 
@@ -91,7 +104,7 @@ As a nursing student, one of my goals is to become a **competent and compassiona
 
   <br/><br/>
 
-  <!-- Matching Red Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&colorred=gradient&customColorList=12,14,15&height=110&section=footer&text=Thank%20you%20for%20visiting!%20♡&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <!-- Matching Solid Red Waving Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=110&section=footer&text=Thank%20you%20for%20visiting!%20♡&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 </div>
